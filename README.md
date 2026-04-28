@@ -1,2 +1,2 @@
 # SistemaAcademico_AF1
-Sistema Academico realiado en Oracle como SGBD y lenguaje JAVA
+Sistema Academico desarrollado en SQL Server 2022 y Visual Studio c#
